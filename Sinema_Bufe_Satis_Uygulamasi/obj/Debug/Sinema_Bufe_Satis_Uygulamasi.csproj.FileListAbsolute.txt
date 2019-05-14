@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe.config
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Form1.resources
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Properties.Resources.resources
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+C:\Users\ben\source\repos\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
